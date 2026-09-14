@@ -1,0 +1,6 @@
+{
+  "name": "আমার দৈনিক খরচ",
+  "description": "দৈনিক আয় ও ব্যয়ের হিসাব রাখার সহজ ও সম্পূর্ণ অ্যাপ (My Daily Expense)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
